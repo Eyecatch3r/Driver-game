@@ -1,0 +1,16 @@
+package game.Pong;
+import game.Welt;
+import java.awt.Color;
+/**
+ * Beschreiben Sie hier die Klasse PongWorld.
+ * 
+ * @author (Ihr Name) 
+ * @version (eine Versionsnummer oder ein Datum)
+ */
+public class pongWorld extends Welt
+{
+    public pongWorld(int pWidth,int pHeight,Color pColor)
+    {
+        super(pWidth,pHeight,pColor);
+    }
+}

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SnakeKopf
+comment1.params=pAnzahl
+comment1.target=void\ erzeugeGlieder(int)
+comment1.text=\r\n\ Erzeugt\ eine\ Anzahl\ von\ Gliedern\ und\ \r\n
+comment2.params=
+comment2.target=void\ agiere()
+numComments=3

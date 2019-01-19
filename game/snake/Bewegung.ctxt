@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bewegung
+comment1.params=pBewX\ pBewY
+comment1.target=Bewegung(double,\ double)
+comment2.params=
+comment2.target=double\ gibBewegungX()
+comment3.params=
+comment3.target=double\ gibBewegungY()
+numComments=4

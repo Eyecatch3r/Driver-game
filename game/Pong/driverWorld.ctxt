@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=driverWorld
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ PongWorld.\r\n\ \r\n\ @author\ Aldo\ Costa\ \r\n\ @version\ 1.01\r\n
+comment1.params=pWidth\ pHeight\ pColor
+comment1.target=driverWorld(int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ agiere()
+comment3.params=
+comment3.target=void\ Spawncars()
+comment3.text=\r\n\ Diese\ Methode\ Ezeugt\ gegnerische\ Autos\ die\ nach\ Zufallsprinzip\r\n\ auf\ den\ verschiedenen\ Lanes\ erzeugt\ werden.\ Ausserdem\ kontrolliert\ diese\ Methode,\ ob\ ein\ Auto\ auf\ der\ Lane\ gespawnt\ ist,\ ist\ \r\n\ dies\ der\ Fall\ wird\ das\ Spawnen\ weiterer\ Autos\ in\ dieser\ Lane\ verhindert\r\n
+comment4.params=pLane
+comment4.target=abiturklassen.datenstrukturklassen.linear.List\ gibAutosAufLane(int)
+comment4.text=\r\n\ diese\ Methode\ iteriert\ eine\ (kopierte)\ Liste\ der\ Akteure\ durch,und\ sammelt\ all\ diejenigen\ EnemyDriver\ Objekte,\ die\r\n\ sich\ in\ der\ pLane\ befinden\ (ineffizient)\r\n
+comment5.params=
+comment5.target=int\ getDifficulty()
+comment6.params=pdifficulty
+comment6.target=void\ setdifficulty(int)
+comment7.params=
+comment7.target=boolean\ getGameOver()
+comment8.params=pGameOver
+comment8.target=void\ setGameOver(boolean)
+comment9.params=
+comment9.target=void\ initialisiereWelt()
+numComments=10

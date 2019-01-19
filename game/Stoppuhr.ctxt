@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stoppuhr
+comment0.text=\r\n\ Die\ Klasse\ Stoppuhr\ dient\ der\ Steuerung\ zeitabhaengiger\ Vorgaenge.\r\n\ \r\n\ @author\ Gerd\ Heischkamp\r\n
+comment1.params=
+comment1.target=Stoppuhr()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ Stoppuhr.\ Die\ Zeitmessung\ wird\ gestartet.\r\n
+comment2.params=
+comment2.target=void\ starteZeitmessung()
+comment2.text=\r\n\ Startet\ die\ Zeitmessung\ (neu).\r\n
+comment3.params=
+comment3.target=long\ gibStartzeitpunkt()
+comment3.text=\r\n\ Liefert\ den\ Zeitpunkt\ des\ Beginns\ der\ Zeitmessung\ in\ Millisekunden.\r\n\ \r\n\ @return\ Zeitpunkt\ des\ Beginns\ der\ Zeitmessung\r\n
+comment4.params=
+comment4.target=long\ gibVergangeneZeit()
+comment4.text=\r\n\ Liefert\ die\ Dauer\ seit\ Beginn\ der\ Zeitmessung\ in\ Millisekunden.\r\n\ \r\n\ @return\ Dauer\ seit\ Beginn\ der\ Zeitmessung\r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EnemyDriver
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EnemyDriver\ here.\r\n\r\n\ @author\ Aldo\ Costa\r\n\ @version\ 1.01\r\n
+comment1.params=
+comment1.target=void\ agiere()
+comment2.params=
+comment2.target=int\ getLane()
+comment3.params=pLane
+comment3.target=void\ setLane(int)
+numComments=4

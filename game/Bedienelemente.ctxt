@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bedienelemente
+comment0.text=\r\n\ Die\ Klasse\ Bedienelemente\ fungiert\ als\ KeyListener.\ In\ einer\ HashMap\ werden\ die\ gedrueckten\ Tasten\ abgespeichert.\r\n\ \r\n\ @author\ Gerd\ Heischkamp\r\n
+comment1.params=
+comment1.target=Bedienelemente()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ Bedienelemente\r\n
+comment2.params=arg0
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.text=\r\n\ Interface\ Keylistener\:\ Die\ gedr\u00FCckte\ Taste\ wird\ in\ der\ HashMap\ markiert.\r\n
+comment3.params=arg0
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.text=\r\n\ Interface\ Keylistener\:\ Die\ gedr\u00FCckte\ Taste\ wird\ in\ der\ HashMap\ ent-markiert.\r\n
+comment4.params=arg0
+comment4.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment4.text=\r\n\ Interface\ Keylistener\:\ leer.\r\n
+comment5.params=pVirtualKey
+comment5.target=boolean\ isKeyDown(int)
+comment5.text=\r\n\ Liefert,\ ob\ die\ Taste\ pVirtualKey\ gedrueckt\ ist\ oder\ nicht.\r\n\ \r\n\ @param\ pVirtualKey\ Taste,\ deren\ Zustand\ geprueft\ werden\ soll\r\n\ @return\ true,\ wenn\ die\ Taste\ pVirtualKey\ gedrueckt\ ist,\ sonst\ false\r\n
+numComments=6

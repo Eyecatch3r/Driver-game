@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImageTile
+comment1.params=path\ tileW\ tileH
+comment1.target=ImageTile(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getTileW()
+comment3.params=tileW
+comment3.target=void\ setTileW(int)
+comment4.params=
+comment4.target=int\ getTileH()
+comment5.params=tileH
+comment5.target=void\ setTileH(int)
+numComments=6

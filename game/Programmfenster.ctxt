@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Programmfenster
+comment0.text=\r\n\ Die\ Klasse\ Programmfenster\ zeigt\ ein\ Objekt\ vom\ Datentyp\ Welt\ an.\r\n\ Sie\ steuert\ die\ FPS-Rate\ und\ ruft\ die\ loop-Methode\ des\ Welt-Objektes\ kontinuierlich\ auf.\r\n\ \r\n\ @autor\ Gerd\ Heischkamp\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Erzeugt\ eine\ Instanz\ der\ Klasse\ Programmfenster.\r\n
+comment2.params=
+comment2.target=Programmfenster()
+comment2.text=\r\n\ Konstruktor\ der\ Klasse\ Programmfenster.\ Das\ Fensterlayout\ wird\ aufgebaut\ und\ die\ Loop-Schleife\ des\ Welt-Objektes\ wird\ gestartet.\r\n
+comment3.params=pWelt
+comment3.target=void\ setzeWelt(Welt)
+comment3.text=\r\n\ Ersetzt\ das\ aktuelle\ Welt-Objekt\ des\ Programmfensters\ durch\ das\ uebergebene\ Welt-Objekt.\r\n\ \r\n\ @param\ pWelt\ Neues\ Welt-Objekt\r\n
+comment4.params=
+comment4.target=void\ startAnimation()
+comment4.text=\r\n\ Startet\ die\ Animation,\ die\ loop-Schleife\ beginnt.\r\n
+comment5.params=
+comment5.target=void\ run()
+comment5.text=\r\n\ Die\ loop-Schleife\ wird\ nebenlaeufig\ ausgefuehrt.\r\n
+comment6.params=pSecInMillis
+comment6.target=void\ delay(long)
+comment6.text=\r\n\ Verzoegert\ die\ loop-Schleife\ des\ Programmfensters.\ Nebenlaeufige\ Threads\ bekommen\ Rechenzeit.\r\n\ \r\n\ @param\ pSecInMillis\ Zeit\ in\ Millisekunden\r\n
+comment7.params=
+comment7.target=void\ controlFPS()
+comment7.text=\r\n\ Reguliert\ die\ Verzoegerungszeit\ innerhalb\ der\ loop-Schleife,\ so\ dass\ die\ FPS-Rate\ optimal\ ist.\r\n
+numComments=8

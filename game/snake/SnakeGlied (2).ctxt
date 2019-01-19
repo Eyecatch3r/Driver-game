@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SnakeGlied
+comment1.params=
+comment1.target=void\ agiere()
+comment2.params=pBewegung
+comment2.target=void\ bewegungAnhaengen(Bewegung)
+numComments=3

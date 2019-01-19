@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=gc
+comment0.target=Window(com.rob.engine.GameContainer)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=java.awt.Canvas\ getCanvas()
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ getImage()
+comment4.params=
+comment4.target=javax.swing.JFrame\ getFrame()
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AsteroidWelt
+comment0.text=\r\n\ Die\ Klasse\ AsteroidWelt\ verwaltet\ alle\ Akteur-Objekte,\ die\ im\ Asteroid-Spiel\ vorkommen.\r\n\ \r\n\ @author\ Gerd\ Heischkamp\r\n
+comment1.params=
+comment1.target=AsteroidWelt()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ AsteroidWelt.\ Die\ Welt\ wird\ mit\ schwarzem\ Hintergrund\ erzeugt.\r\n
+comment2.params=pBreite\ pHoehe\ pBgColor
+comment2.target=AsteroidWelt(int,\ int,\ java.awt.Color)
+comment2.text=\r\n\ Konstruktor\ der\ Klasse\ AsteroidWelt.\r\n\ \r\n\ @param\ pPF\ Programmfenster,\ in\ dem\ die\ Welt\ dargestellt\ wird.\r\n\ @param\ pBreite\ Breite\ der\ Welt\r\n\ @param\ pHoehe\ Hoehe\ der\ Welt\r\n
+comment3.params=
+comment3.target=void\ initialisiereWelt()
+comment3.text=\r\n\ \u00DCberschreibt\ die\ Methode\ initialisiereWelt\ der\ Oberklasse.\ Die\ Akteuer\ des\ Spiels\ werden\ erzeugt\ und\ eingefuegt.\r\n
+comment4.params=
+comment4.target=void\ agiere()
+comment4.text=\r\n\ \u00DCberschreibt\ die\ Methode\ agiere\ der\ Oberklasse.\r\n
+numComments=5

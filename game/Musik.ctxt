@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Musik
+comment0.text=\r\n\ Die\ Klasse\ Musik\ speichert\ sound-Clips\ in\ einer\ HashMap.\r\n\ \r\n\ @author\ Aldo\ Costa\ (Kappa)\r\n
+comment1.params=
+comment1.target=Musik()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ Musik\r\n
+comment2.params=pName\ pPfadZurDatei
+comment2.target=void\ geraeuschHinzufuegen(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Fuegt\ einen\ Sound-Clip\ der\ HashMap\ hinzu.\r\n\ \r\n\ @param\ pName\ Name\ des\ Sound-Clips\r\n\ @param\ pPfadZurDatei\ Pfad\ zur\ Sounddatei\r\n
+comment3.params=pName
+comment3.target=void\ geraeuschAbspielen(java.lang.String)
+comment3.text=\r\n\ Spielt\ einen\ Sound-Clip\ aus\ der\ HashMap\ ab.\r\n\ \r\n\ param\ pName\ Name\ des\ Sound-Clips\r\n
+comment4.params=pName
+comment4.target=javax.sound.sampled.Clip\ getClip(java.lang.String)
+comment5.params=pName
+comment5.target=boolean\ isRunning(java.lang.String)
+comment6.params=clip
+comment6.target=float\ getVolume(javax.sound.sampled.Clip)
+comment7.params=volume\ clip
+comment7.target=void\ setVolume(float,\ javax.sound.sampled.Clip)
+comment8.params=pName
+comment8.target=void\ geraeuschStoppen(java.lang.String)
+numComments=9

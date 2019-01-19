@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=gc
+comment0.target=Renderer(com.rob.engine.GameContainer)
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=x\ y\ value
+comment2.target=void\ setPixel(int,\ int,\ int)
+comment3.params=text\ offX\ offY\ color
+comment3.target=void\ drawText(java.lang.String,\ int,\ int,\ int)
+comment4.params=image\ offX\ offY
+comment4.target=void\ drawImage(com.rob.engine.gfx.Image,\ int,\ int)
+comment5.params=image\ offX\ offY\ tileX\ tileY
+comment5.target=void\ drawImageTile(com.rob.engine.gfx.ImageTile,\ int,\ int,\ int,\ int)
+numComments=6

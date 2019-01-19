@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Projektil
+comment1.params=
+comment1.target=void\ agiere()
+comment2.params=g
+comment2.target=void\ zeichneAkteur(java.awt.Graphics2D)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Driver.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=void\ agiere()
+comment2.params=
+comment2.target=void\ collision()
+comment2.text=\r\n\ Diese\ Methode\ pr\u00FCft,\ ob\ sich\ ein\ kollidierendes\ Objekt\ der\ klasse\ Enemydriver\ auf\ dem\ \r\n\ DriverObjekt\ befindet\r\n
+comment3.params=
+comment3.target=void\ control()
+comment3.text=\r\n\ Diese\ Methode\ ist\ fuer\ die\ Steuerung\ des\ Driver\ Objekts\ zust\u00E4ndig,\ durch\ Globale\ Variablen\ eine\ sanfte\ Bewegung\ zu\ erm\u00F6glichen\r\n
+numComments=4

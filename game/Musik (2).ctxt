@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Musik
+comment0.text=\r\n\ Die\ Klasse\ Musik\ speichert\ sound-Clips\ in\ einer\ HashMap.\r\n\ \r\n\ @author\ Gerd\ Heischkamp\r\n
+comment1.params=
+comment1.target=Musik()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ Musik\r\n
+comment2.params=pName\ pPfadZurDatei
+comment2.target=void\ geraeuschHinzufuegen(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Fuegt\ einen\ Sound-Clip\ der\ HashMap\ hinzu.\r\n\ \r\n\ @param\ pName\ Name\ des\ Sound-Clips\r\n\ @param\ pPfadZurDatei\ Pfad\ zur\ Sounddatei\r\n
+comment3.params=pName
+comment3.target=void\ geraeuschAbspielen(java.lang.String)
+comment3.text=\r\n\ Spielt\ einen\ Sound-Clip\ aus\ der\ HashMap\ ab.\r\n\ \r\n\ param\ pName\ Name\ des\ Sound-Clips\r\n
+numComments=4

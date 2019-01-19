@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Font
+comment1.params=path
+comment1.target=Font(java.lang.String)
+comment2.params=
+comment2.target=com.rob.engine.gfx.Image\ getFontImage()
+comment3.params=fontImage
+comment3.target=void\ setFontImage(com.rob.engine.gfx.Image)
+comment4.params=
+comment4.target=int[]\ getOffsets()
+comment5.params=offsets
+comment5.target=void\ setOffsets(int[])
+comment6.params=
+comment6.target=int[]\ getWidths()
+comment7.params=widths
+comment7.target=void\ setWidths(int[])
+numComments=8

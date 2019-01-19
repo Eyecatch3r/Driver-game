@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=gc\ dt
+comment0.target=void\ update(com.rob.engine.GameContainer,\ float)
+comment1.params=gc\ r
+comment1.target=void\ render(com.rob.engine.GameContainer,\ Renderer)
+numComments=2
